@@ -3,7 +3,8 @@
   "modules": {
     "footerPanel": {
       "options":{
-        "downloadEnabled": false
+        "downloadEnabled": false,
+        "shareEnabled": false
       }
     }
   }
