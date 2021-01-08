@@ -1,8 +1,8 @@
 {
     "options": {
-
+        "downloadEnabled": false
     },
     "modules": {
 
     }
-  }
+}
